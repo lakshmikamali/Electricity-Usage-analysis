@@ -13,3 +13,8 @@ This project focuses on analyzing electricity consumption data and building an i
 - Usage patterns differ significantly across days
 - Certain time periods consistently show high consumption
 - Dashboard helps in identifying energy-saving opportunities
+
+## Future Improvements
+- Integrate real-time electricity data
+- Apply machine learning for consumption prediction
+- Enhance dashboard with more interactive filters
