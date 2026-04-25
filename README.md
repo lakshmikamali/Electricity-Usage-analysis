@@ -1,13 +1,15 @@
 # Electricity Usage Analysis
 
-Analyzed electricity consumption data using Python and built an interactive Power BI dashboard to identify usage patterns and trends.
+## Project Description
+This project focuses on analyzing electricity consumption data and building an interactive Power BI dashboard to visualize usage patterns and trends.
 
 ## Tools Used
 - Power BI
 - Data Cleaning
 - Data Visualization
 
-## Features
-- Data cleaning
-- Visualization
-- Dashboard creation
+## Key Insights
+- Electricity consumption peaks during evening hours
+- Usage patterns differ significantly across days
+- Certain time periods consistently show high consumption
+- Dashboard helps in identifying energy-saving opportunities
