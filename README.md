@@ -1,7 +1,7 @@
 # Electricity Usage Analysis
 
 ## Project Description
-This project focuses on analyzing electricity consumption data and building an interactive Power BI dashboard to visualize usage patterns and trends.
+This project analyzes electricity consumption data and presents insights through an interactive Power BI dashboard, helping identify usage patterns and optimize energy consumption.
 
 ## Tools Used
 - Power BI
